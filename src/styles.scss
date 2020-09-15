@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import '_variable.scss';
+html,body{
+    height:100%
+}
+.flex-1-1-auto{
+    flex: 1 1 auto;
+}
+.color-primary {
+    color:$primary-blue !important;
+}
+.bg-primary {
+    background-color:$primary-blue !important;
+}
+button.btn {
+    border-radius:0;
+}
