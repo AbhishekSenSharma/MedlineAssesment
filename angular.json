@@ -20,7 +20,7 @@
             "outputPath": "dist/medline",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "polyfills": "src/polyfills.ts",xxx66
+            "polyfills": "src/polyfills.ts",88
             "tsConfig": "tsconfig.app.json",
             "aot": true,
             "assets": [
